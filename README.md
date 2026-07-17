@@ -1,2 +1,18 @@
 # Planet-Orbit-Simulation-Project
-Working on project! Not complete.
+
+Visual of Simulation
+
+Features in Simulation
+
+Physics & Math Concepts in Simulation
+
+How it Works
+
+Requirements
+- Java (JDK or higher).
+- IDE (e.g., VS Code, Eclipse, or IntelliJ).
+
+How to Run
+Copy the code into a Java file named "PlanetOrbitSimulation.java".
+Compile the program: "javac PlanetOrbitSimulation.java".
+Run the program: "java PlanetOrbitSimulation".
