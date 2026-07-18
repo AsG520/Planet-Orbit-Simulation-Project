@@ -3,6 +3,11 @@
 Visual of Simulation
 
 Features in Simulation
+- Real time animation using a timer.
+- 2D representation of planet orbits in our solar system.
+- Motion of planets are broken into horizontal and vertical components.
+- Implementation of attraction force between different planets.
+- Includes estimated real masses of planets.
 
 Physics & Math Concepts in Simulation
 
